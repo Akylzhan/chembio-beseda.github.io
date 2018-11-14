@@ -1,0 +1,18 @@
+body{
+    padding: 5% 28%;
+    background-color: rgb(40,44,52);
+    font-family: "Arial";
+}
+h3{
+    color: white;
+    text-align: left;
+    font-size: 0.8vw;
+    max-width: 100%;
+}
+h3:hover{
+    color: rgb(170,177,190);
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
